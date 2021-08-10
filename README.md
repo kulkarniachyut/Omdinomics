@@ -1,2 +1,2 @@
 # Omdinomics
-A crypto currency based reward system for marketplaces
+A crypto currency based compound reward system for marketplaces
